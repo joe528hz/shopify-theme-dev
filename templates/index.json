@@ -15,11 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-<<<<<<< HEAD
             "heading": "This is local change4",
-=======
-            "heading": "This is live change3",
->>>>>>> d602deaba14ba97b5dee80e00537d53c9ec1a766
             "heading_size": "h0"
           }
         },
